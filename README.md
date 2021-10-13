@@ -11,7 +11,7 @@
 
 ### About Me 
  I’m an Python Developer currently working on Mozart : A Platform that provides Data Transformation as a Service . </br>
- I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
+ I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps. </br>
 
 ### My Experiences 🙌
 - [Summer Intern](https://cppsecrets.com/user/index.php?uid=613) - Contributed professional C++ 11/14/17 Code for implementation of Data Structure and Various Associated Problems.
