@@ -20,6 +20,6 @@ Worked on various data related issues, including Data gaps.
 Performed Root - Cause Analysis on data issues and delivered solution with implementation.
 
 
-![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=SahillMulani&show_icons=true&hide_border=true)
+![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=SahillMulani&show_icons=true&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SahillMulani.SahillMulani)
