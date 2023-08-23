@@ -14,11 +14,11 @@
  I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps. </br>
 
 ### My Experiences 🙌
-- [Summer Intern](https://cppsecrets.com/user/index.php?uid=613) - Contributed professional C++ 11/14/17 Code for implementation of Data Structure and Various Associated Problems.
-- [Data Analyst](https://www.linkedin.com/company/kpmgindia/) - Design and developed Model in Python for Data-Quality Assessment
+- Summer Intern at [CppSecrets.com](https://cppsecrets.com/user/index.php?uid=613) - Contributed professional C++ 11/14/17 Code for implementation of Data Structure and Various Associated Problems.
+- Data Analyst at [KPMG](https://www.linkedin.com/company/kpmgindia/) - Design and developed Model in Python for Data-Quality Assessment
 Worked on various data related issues, including Data gaps.
 Performed Root - Cause Analysis on data issues and delivered solution with implementation.
-- [Python Developer ](https://www.vodafone.com/what-we-do/services/vois) - Data Platforms Delivery Management.
+- Python Developer at [Vodafone](https://www.vodafone.com/what-we-do/services/vois) - Data Platforms Delivery Management.
 Creating services to transform data streams using Python. Using Apache Airflow to schedule and orchestrate these services.
 
 
