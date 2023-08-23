@@ -18,6 +18,8 @@
 - [Data Analyst](https://www.linkedin.com/company/kpmgindia/) - Design and developed Model in Python for Data-Quality Assessment
 Worked on various data related issues, including Data gaps.
 Performed Root - Cause Analysis on data issues and delivered solution with implementation.
+- [Python Developer ](https://www.vodafone.com/what-we-do/services/vois) - Data Platforms Delivery Management.
+Creating services to transform data streams using Python. Using Apache Airflow to schedule and orchestrate these services.
 
 
 ![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=SahillMulani&show_icons=true&hide_border=true)
